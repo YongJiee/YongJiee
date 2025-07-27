@@ -1,24 +1,59 @@
-Hi 👋 My name is Yong Jie
-=========================
+# 👋 Hello, I'm Yong Jie
 
-* 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/yong-jie-tan/)
-* ✉️  You can contact me at [tan\_yong\_jie@outlook.com](mailto:tan_yong_jie@outlook.com)
+🎓 Robotics Systems student | 🤖 Autonomous Navigation 
+Based in Singapore 🇸🇬, I specialize in building autonomous robots with ROS1 and embedded systems like STM32, Pixy2, and the Propeller chip.
 
-### Skills
+---
+
+## 🧑‍💻 About Me
+
+I'm currently studying at the Singapore Institute of Technology, where I've led multiple team-based robotics projects. My passion lies in solving real-world problems through smart, reliable autonomous systems.  
+
+From ROS navigation and SLAM to low-level firmware programming, I enjoy integrating software and hardware into efficient robotic solutions. I also run a Telegram channel on smart property investing.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Frameworks & Tools  
+![ROS1](https://img.shields.io/badge/ROS1-22314E?style=flat&logo=ros&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat)
+![Pixy2](https://img.shields.io/badge/Pixy2-000000?style=flat)
+![Parallax Propeller](https://img.shields.io/badge/Parallax_Propeller-008080?style=flat)
+
+### Software & Dev Tools  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJiee&layout=compact&theme=github_dark)
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
-</p>
+---
 
+## 🚀 Featured Project
 
-### Socials
+[![Systems Engineering Project](https://github-readme-stats.vercel.app/api/pin/?username=YongJiee&repo=Systems-Engineering-Project-1-Group-6&theme=github_dark)](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
 
-<p align="left"> <a href="https://www.github.com/Yong-Jiee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/yong-jie-tan/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+A ROS1-based autonomous navigation system using the LIMO robot and RTAB-Map SLAM, developed as a capstone university project.
 
-### Badges
+---
 
-<b>Top Repositories</b>
+## 🌐 Connect with Me
 
-<div width="100%" align="center"><a href="https://github.com/Yong-Jiee/Systems-Engineering-Project-1-Grp-6" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yong-Jiee&repo=Systems-Engineering-Project-1-Grp-6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yong-jie-tan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yong-Jiee)
+[![Email](https://img.shields.io/badge/Email-tan_yong_jie@outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:tan_yong_jie@outlook.com)
+
+---
+
+> 📫 Looking for opportunities in robotics, systems engineering, or embedded software? Let’s connect!
