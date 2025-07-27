@@ -51,7 +51,7 @@ A ROS1-based autonomous navigation system using the LIMO robot and RTAB-Map SLAM
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yong-jie-tan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yong-Jiee)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YongJiee)
 [![Email](https://img.shields.io/badge/Email-tan_yong_jie@outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:tan_yong_jie@outlook.com)
 
 ---
