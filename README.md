@@ -9,7 +9,7 @@
 
 ## 🚀 Robotics Systems Engineer
 
-> Specializing in autonomous navigation, ROS ecosystems, and embedded systems integration
+> Specializing in autonomous navigation, ROS, and embedded systems integration
 
 🎓 **Robotics Systems Student** @ Singapore Institute of Technology  
 🏆 **WorldSkills Singapore Medalist** (2020, 2021) - Mechatronics  
@@ -25,7 +25,7 @@ I'm a robotics engineer passionate about building intelligent autonomous systems
 - **Autonomous Systems**: ROS1/ROS2 navigation, SLAM, path planning
 - **Hardware Integration**: STM32, Pixy2, Parallax Propeller microcontrollers
 - **System Design**: From concept to deployment, including electrical panel wiring and PLC programming
-- **Team Leadership**: Led multiple university robotics projects with cross-functional teams
+- **Team Leadership**: Led multiple university robotics projects
 
 ---
 
@@ -59,7 +59,7 @@ Tools           VS Code • Git • Linux (Ubuntu) • PLC Programming • HMI D
 ### 🤖 Autonomous Maze Escape Robot
 **Tech Stack:** ROS2 • Nav2 • SLAM Toolbox • TurtleBot3 • Gazebo • Python
 
-[![ROS2 Autonomous Exploration](https://github-readme-stats.vercel.app/api/pin/?username=YongJiee&repo=ROS2-Autonomous-exploration&theme=github_dark)](https://github.com/YongJiee/ROS2-Autonomous-exploration)
+[![ROS2 Autonomous Exploration](https://github-readme-stats.vercel.app/api/pin/?username=YongJiee&repo=ROS2-Autonomous-exploration&theme=github_dark&hide_border=true)](https://github.com/YongJiee/ROS2-Autonomous-exploration)
 
 Developed a fully autonomous maze navigation system using ROS2, implementing real-time SLAM and intelligent exploration algorithms. The robot successfully escapes complex maze configurations without prior mapping.
 
@@ -69,12 +69,14 @@ Developed a fully autonomous maze navigation system using ROS2, implementing rea
 - Dynamic obstacle avoidance
 - Multi-terminal system architecture
 
+[**→ View Project Demo**](https://github.com/YongJiee/ROS2-Autonomous-exploration)
+
 ---
 
 ### 🏆 Systems Engineering Project 1
 **Tech Stack:** ROS1 • RTAB-Map • LIMO Robot • Autonomous Navigation
 
-[![Systems Engineering Project](https://github-readme-stats.vercel.app/api/pin/?username=YongJiee&repo=Systems-Engineering-Project-1-Group-6&theme=github_dark)](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
+[![Systems Engineering Project](https://github-readme-stats.vercel.app/api/pin/?username=YongJiee&repo=Systems-Engineering-Project-1-Group-6&theme=github_dark&hide_border=true)](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
 
 Led a team project developing a ROS1-based autonomous navigation system for the LIMO robot platform, implementing RTAB-Map SLAM for indoor environments.
 
@@ -84,38 +86,67 @@ Led a team project developing a ROS1-based autonomous navigation system for the 
 - Team coordination and project management
 - Hardware-software integration
 
+[**→ View Project Details**](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YongJiee&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/YongJiee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YongJiee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YongJiee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&text_color=c9d1d9"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJiee&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YongJiee&theme=github-dark-blue&hide_border=true)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YongJiee&theme=tokyonight&hide_border=true&background=0D1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Background
 
-- 🥇 **WorldSkills Singapore** - Medallion of Excellence (2020, 2021) - Mechatronics
-- 🎓 **Robotics Systems Engineering** - Singapore Institute of Technology (In Progress)
-- 🤖 **Competitive Mechatronics** - Industrial automation system design and integration
+**🥇 WorldSkills Singapore - Mechatronics (2018-2021)**
+- Medallion of Excellence (2020, 2021)
+- Competitive experience in industrial automation system design
+- Two-person team competitions: complete system design, build, and programming under time constraints
+- Expertise developed: PLC programming, HMI development, electrical panel wiring, system integration
 
-*Competitive experience in designing, building, and programming complete industrial automation systems under strict time constraints, including PLC programming, HMI development, and electrical systems integration.*
+**🎓 Education**
+- **Robotics Systems Engineering** - Singapore Institute of Technology (Current)
+- **Diploma in Mechatronics** - Nanyang Polytechnic
+
+**💼 Technical Competencies**
+- Autonomous robot navigation and control
+- SLAM and localization systems
+- Embedded systems programming
+- Industrial automation and PLC systems
+- Cross-functional team leadership
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced ROS2 navigation techniques
-- Multi-robot coordination systems
-- Computer vision integration for robotics
-- Embedded AI for edge robotics applications
+- Advanced ROS2 navigation techniques and behavior trees
+- Multi-robot coordination and swarm robotics
+- Computer vision integration for autonomous systems
+- Embedded AI and edge computing for robotics
+- Real-time path planning algorithms
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YongJiee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563eb&line=2563eb&point=58a6ff)
+
+</div>
 
 ---
 
@@ -127,7 +158,7 @@ I'm actively seeking opportunities in:
 - 💻 **Embedded Software Development**
 - 🔧 **Automation & Control Systems**
 
-**Open to:** Full-time positions, internships, and collaborative projects
+**Open to:** Full-time positions, internships, and collaborative robotics projects
 
 <div align="center">
 
@@ -141,6 +172,8 @@ I'm actively seeking opportunities in:
 <div align="center">
 
 *"Building intelligent systems that bridge the gap between software and hardware"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=YongJiee&color=2563eb&style=flat-square&label=Profile+Views)
 
 ⭐️ From [YongJiee](https://github.com/YongJiee)
 
