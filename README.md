@@ -56,10 +56,15 @@ Tools           VS Code • Git • Linux (Ubuntu) • PLC Programming • HMI D
 
 ## 🎯 Featured Projects
 
-### 🤖 Autonomous Maze Escape Robot
-**Tech Stack:** ROS2 • Nav2 • SLAM Toolbox • TurtleBot3 • Gazebo • Python
-
-[![ROS2 Autonomous Exploration](https://github-readme-stats.vercel.app/api/pin/?username=YongJiee&repo=ROS2-Autonomous-exploration&theme=github_dark&hide_border=true)](https://github.com/YongJiee/ROS2-Autonomous-exploration)
+### 🤖 [Autonomous Maze Escape Robot](https://github.com/YongJiee/ROS2-Autonomous-exploration)
+<div align="left">
+<a href="https://github.com/YongJiee/ROS2-Autonomous-exploration">
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/Nav2-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SLAM_Toolbox-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+</div>
 
 Developed a fully autonomous maze navigation system using ROS2, implementing real-time SLAM and intelligent exploration algorithms. The robot successfully escapes complex maze configurations without prior mapping.
 
@@ -73,10 +78,15 @@ Developed a fully autonomous maze navigation system using ROS2, implementing rea
 
 ---
 
-### 🏆 Systems Engineering Project 1
-**Tech Stack:** ROS1 • RTAB-Map • LIMO Robot • Autonomous Navigation
-
-[![Systems Engineering Project](https://github-readme-stats.vercel.app/api/pin/?username=YongJiee&repo=Systems-Engineering-Project-1-Group-6&theme=github_dark&hide_border=true)](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
+### 🏆 [Systems Engineering Project 1](https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6)
+<div align="left">
+<a href="https://github.com/YongJiee/Systems-Engineering-Project-1-Group-6">
+<img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/RTAB_Map-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LIMO_Robot-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Navigation-3776AB?style=for-the-badge" />
+</a>
+</div>
 
 Led a team project developing a ROS1-based autonomous navigation system for the LIMO robot platform, implementing RTAB-Map SLAM for indoor environments.
 
@@ -90,24 +100,25 @@ Led a team project developing a ROS1-based autonomous navigation system for the 
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/YongJiee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YongJiee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YongJiee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&text_color=c9d1d9"/>
-</a>
+### 💻 Language Distribution
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YongJiee&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YongJiee&theme=tokyonight)
+
+### 📈 GitHub Activity Overview
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YongJiee&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YongJiee&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YongJiee&theme=tokyonight&utcOffset=8)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YongJiee&color=2563eb&style=flat-square&label=Profile+Views)
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YongJiee&theme=tokyonight&hide_border=true&background=0D1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🏆 Achievements & Background
 
@@ -140,21 +151,10 @@ Led a team project developing a ROS1-based autonomous navigation system for the 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YongJiee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563eb&line=2563eb&point=58a6ff)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 I'm actively seeking opportunities in:
 - 🤖 **Robotics Engineering**
-- ⚙️ **Systems Engineering**
 - 💻 **Embedded Software Development**
 - 🔧 **Automation & Control Systems**
 
