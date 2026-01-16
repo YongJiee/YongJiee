@@ -106,8 +106,8 @@ Led a team project developing a ROS1-based autonomous navigation system for the 
 
 ### 💻 Language Distribution
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YongJiee&theme=tokyonight)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YongJiee&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YongJiee&theme=github_dark&exclude=scss,css,html,javascript,typescript,markdown)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YongJiee&theme=github_dark&exclude=scss,css,html,javascript,typescript,markdown)
 
 ### 📈 GitHub Activity Overview
 
@@ -115,8 +115,6 @@ Led a team project developing a ROS1-based autonomous navigation system for the 
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YongJiee&theme=tokyonight)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YongJiee&theme=tokyonight&utcOffset=8)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YongJiee&color=2563eb&style=flat-square&label=Profile+Views)
 
 </div>
 
