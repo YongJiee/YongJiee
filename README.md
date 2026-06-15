@@ -88,7 +88,7 @@ Tools           VS Code • Git/GitHub • Linux (Ubuntu/WSL) • PLC • HMI De
 </a>
 </div>
 
-> **Industry Partner: CEVA Logistics** | RSE2109 Project 4
+> ** RSE2109 Project 4
 
 A multi-camera warehouse scanning solution that eliminates barcode dependency by fusing OCR and barcode data across all six faces of a package — generating a **Universal Product Passport** per item in real time. Built on a distributed Raspberry Pi + WSL Ubuntu architecture communicating over ROS2.
 
